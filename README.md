@@ -1,4 +1,5 @@
-# Comandos usados practica 4
+# Comandos usados practica 4 LABORATORIO 1
+
 mkdir sistemaoperativo
 
 ls
